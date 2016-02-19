@@ -1,6 +1,6 @@
 # Slush Angular2-ts [![Build Status](https://secure.travis-ci.org/zhouhao/slush-angular2-ts.png?branch=master)](https://travis-ci.org/zhouhao/slush-angular2-ts) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-angular2-ts.png)](http://badges.enytc.com/for/npm/slush-angular2-ts)
 
-> A slush generator for simple Angular2 typescript project
+> A simplest slush generator for simple Angular2 typescript project
 
 
 ## Getting Started
@@ -35,9 +35,9 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## References
 
-[Angular 2 - 5 Min Quickstart](https://angular.io/docs/ts/latest/quickstart.html)
-[Build a Slush Generator](http://thejackalofjavascript.com/building-slush-generator/)
-[Easy Project Scaffolding with Gulp and Slush](https://scotch.io/tutorials/easy-project-scaffolding-with-gulp-and-slush)
+- [Angular 2 - 5 Min Quickstart](https://angular.io/docs/ts/latest/quickstart.html)
+- [Build a Slush Generator](http://thejackalofjavascript.com/building-slush-generator/)
+- [Easy Project Scaffolding with Gulp and Slush](https://scotch.io/tutorials/easy-project-scaffolding-with-gulp-and-slush)
 
 ## Todo
 
